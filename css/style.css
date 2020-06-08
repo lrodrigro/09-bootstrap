@@ -1,0 +1,35 @@
+.white {
+    background-color: #ffffff
+}
+
+.dark-gray {
+    background-color: #3a3a3a
+}
+
+.black {
+    background-color: black;
+}
+
+.orange {
+    background-color: orange
+}
+
+.yellow {
+    background-color: yellow
+}
+
+.eye-color {
+    border: 1px solid;
+    border-color: silver;
+}
+
+.eye-white {
+    border: 1px solid;
+    border-color: white;
+}
+.col-lg-1 {
+    flex: 0 0 0;
+    padding:20px;
+    content: none;
+    line-height:0;  
+}
